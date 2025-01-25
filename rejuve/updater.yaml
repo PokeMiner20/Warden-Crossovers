@@ -1,7 +1,7 @@
 game:
     name: Rejuvenation
     url: https://mega.nz/file/kEYW0ACJ#SExuyMqH47UcZjTeE8E0HPLcMXCEmaHUkNLYlPb5wKs
-    version: 13.5.6.RejuveWard.0.1
+    version: 13.5.6.RejuveWard.0.0
     version_url: https://raw.githubusercontent.com/PokeMiner20/Warden-Crossovers/refs/heads/main/rejuve/_version.txt
     patch_url: https://raw.githubusercontent.com/PokeMiner20/Warden-Crossovers/refs/heads/main/rejuve/_patch.zip
     format: zip
