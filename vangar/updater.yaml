@@ -1,0 +1,9 @@
+game:
+    name: Vanguard
+    url: https://drive.usercontent.google.com/download?id=1BQOD771f2aEU6iAsT6xPEqMIJoKMev1E&export=download&authuser=0
+    version: 3.5.9.VanguardWardens.0.0.1
+    version_url: https://raw.githubusercontent.com/PokeMiner20/Warden-Crossovers/refs/heads/main/vangar/_version.txt
+    patch_url: https://raw.githubusercontent.com/PokeMiner20/Warden-Crossovers/refs/heads/main/vangar/_patch.zip
+    format: zip
+    password: null
+mods: []
